@@ -1,1 +1,2 @@
 import{r as e,w as p}from"./index-CZCi8_lK.js";const f=()=>{const[a,r]=e.useState(null),[o,s]=e.useState(!0),[i,n]=e.useState(null);return e.useEffect(()=>{(async()=>{try{const t=await p.get("https://precrohn-api-production.up.railway.app/api/participant-profile",{headers:{Authorization:`${localStorage.getItem("token")}`}});r(t.data)}catch(t){n(t.response?t.response.data:t.message)}finally{s(!1)}})()},[]),{profileData:a,loading:o,error:i}};export{f as u};
+//# sourceMappingURL=useParticipantProfile-CCpDBgye.js.map
