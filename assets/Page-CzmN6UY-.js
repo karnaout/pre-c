@@ -1,0 +1,2 @@
+import{j as s,H as a,C as t}from"./index-k8v-YTab.js";import"./slick-theme-BJlIGNXi.js";import{B as o}from"./BodyLayout-CEXKd_0L.js";const l=({title:e,data:r,type:n})=>s.jsxs(s.Fragment,{children:[s.jsx(a,{children:s.jsx("title",{children:e||"Pre-crohn's"})}),e?s.jsxs("div",{className:"title-content",children:[s.jsxs("h1",{children:[" ",e]})," "]}):"",s.jsx(t,{className:"content-container",children:s.jsx(o,{data:r})}),n==="final"?"ss":""]});export{l as default};
+//# sourceMappingURL=Page-CzmN6UY-.js.map
